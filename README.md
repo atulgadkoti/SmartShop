@@ -2,8 +2,8 @@
 
 A modern Android app built using **Kotlin** and **Jetpack Compose**, designed to help users manage shopping lists with location selection powered by **Google Maps**.
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/smartshop?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/smartshop)
+![GitHub Repo Stars](https://img.shields.io/github/stars/atulgadkoti/smartshop?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/atulgadkoti/smartshop)
 ![Platform](https://img.shields.io/badge/platform-Android-green)
 
 ---
